@@ -1,2 +1,2 @@
-# iamashtonfox.github.io
-My Website!
+# Hello, I'm Ashton.
+I'm currently a senior at Boston University, and will be graduating in May 2024. I have experience in full-stack and backend, and am interested in applications development, cybersecurity, and AI. You can read more about me on my [website](https://iamashtonfox.github.io/)
