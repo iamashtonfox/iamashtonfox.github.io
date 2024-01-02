@@ -1,9 +1,9 @@
  * {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
-    margin: 4px;
+    /* margin: 4px; */
     margin-bottom: none;
-    background-color: #F1E2F3;
+    background-color: #F1D3F3;
  }
 
  nav{
@@ -12,6 +12,7 @@
     border-color: black;
     font-weight: bold;
     font-size: 18px;
+    transition: background-color 0.5s #DFB1E2 ease-in-out;
  }
 
 li {
@@ -19,18 +20,20 @@ li {
     /* font-style: italic; */
 }
 p{
-    border: 2px;
+    left: 45%;
+    border: 4px;
     border-style: double;
-    border-bottom-style:none;
 }
 
 .style1{
-    background-color:#74977B;
+    background: linear-gradient(#74977B,#709277);
+    /* background-color:#74977B; */
     font-weight: bold;
     margin-top: 6px;
 }
 
 .style2{
+    background: linear-gradient(#709277, #6C8B72);
     background-color: #6C8B72;
     font-weight: bold;
     
