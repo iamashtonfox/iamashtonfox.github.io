@@ -10,9 +10,20 @@ li {
     font-weight: bold;
     /* font-style: italic; */
 }
+p{
+    border: 2px;
+    border-style: double;
+    border-bottom-style:none;
+}
 
 .style1{
     background-color:#74977B;
     font-weight: bold;
     margin-top: 6px;
+}
+
+.style2{
+    background-color: #6C8B72;
+    font-weight: bold;
+    
 }
