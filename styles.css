@@ -1,11 +1,13 @@
 * {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     margin: 4px;
     margin-bottom: none;
     background-color: #F1E2F3;
+}
+main{
     align-items: center;
- }
+}
 a:link, a:visited{
     color:#6C8B72;
     text-decoration: none;
@@ -16,7 +18,7 @@ a:link, a:visited{
     border-top: 4px;
     border-color: black;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 16px;
  }
 
 li {
@@ -27,6 +29,11 @@ p{
     border: 2px;
     border-style: double;
     border-bottom-style:none;
+}
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    
 }
 
 .style1{
