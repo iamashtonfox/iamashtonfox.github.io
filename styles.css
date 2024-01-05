@@ -8,11 +8,6 @@
 main{
     align-items: center;
 }
-header{
-    font-size: 32px;
-    font-weight: bold;
-    color:#6C8B72;
-}
 a:link, a:visited{
     color:#6C8B72;
     text-decoration: none;
@@ -38,7 +33,7 @@ p{
 .title{
     font-size: 32px;
     font-weight: bold;
-    
+    color:#6C8B72;
 }
 
 .style1{
