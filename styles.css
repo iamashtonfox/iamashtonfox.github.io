@@ -1,7 +1,8 @@
 * {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
-    margin: 4px;
+    margin: auto !important;
+    text-align: center !important;
     margin-bottom: none;
     background-color: #F1E2F3;
 }
