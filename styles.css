@@ -27,7 +27,8 @@ li {
 }
 p{
     border: 2px;
-    border-style: double;
+    padding: 4px;
+    /* border-style: double; */
     border-bottom-style:none;
 }
 .title{
