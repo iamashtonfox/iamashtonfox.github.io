@@ -3,8 +3,8 @@
     font-size: 16px;
     margin: auto !important;
     text-align: center !important;
-    margin-bottom: none;
     background-color: #F1E2F3;
+    max-width: 772px;
 }
 main{
     align-items: center;
