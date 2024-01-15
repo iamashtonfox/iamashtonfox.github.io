@@ -1,7 +1,7 @@
 * {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
-    margin: auto !important;
+    margin: auto;
     text-align: center !important;
     background-color: #F1E2F3;
     max-width: 772px;
@@ -23,7 +23,7 @@ a:link, a:visited{
  }
 a{
     background-color: #dfb1e2;
-    padding: 32px;
+    padding: 16px;
     margin-bottom: 12px;
     margin-top: 12px;
 }
